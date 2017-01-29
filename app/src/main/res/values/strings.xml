@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lente Loterias</string>
+    <string name="btn_capture">Click</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">No camera harware found</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6878887796912866/7845053525</string>
+</resources>
